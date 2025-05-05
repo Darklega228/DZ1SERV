@@ -1,0 +1,14 @@
+E:\C#SERV\DZ1\bin\Debug\net8.0\DZ1.exe
+E:\C#SERV\DZ1\bin\Debug\net8.0\DZ1.deps.json
+E:\C#SERV\DZ1\bin\Debug\net8.0\DZ1.runtimeconfig.json
+E:\C#SERV\DZ1\bin\Debug\net8.0\DZ1.dll
+E:\C#SERV\DZ1\bin\Debug\net8.0\DZ1.pdb
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.AssemblyInfoInputs.cache
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.AssemblyInfo.cs
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.csproj.CoreCompileInputs.cache
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.dll
+E:\C#SERV\DZ1\obj\Debug\net8.0\refint\DZ1.dll
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.pdb
+E:\C#SERV\DZ1\obj\Debug\net8.0\DZ1.genruntimeconfig.cache
+E:\C#SERV\DZ1\obj\Debug\net8.0\ref\DZ1.dll
